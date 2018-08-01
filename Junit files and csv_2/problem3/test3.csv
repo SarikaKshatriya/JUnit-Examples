@@ -1,0 +1,12 @@
+1,1,2,4,381,9-10-11-12-11-14(MCDC:TTF)
+2,1,2,3,381,9-11-12-11-14(MCDC:FTF)
+3,1,1,1,1,9-11-14 BV:shipment number 1 railroad carnum 1
+4,1,2,10,381,MCDC:FTT
+5,1,2,8,381,MCDC:TFF
+6,1,2,2,381,BV:shipment number 2
+7,1,2,40,381,BV:shipment number 40
+8,1,10,40,3641,BV:railroad car number 10
+9,360,10,1,4000,BV:shipment no 1 max current box number(absolute)
+10,1,0,1,1,BV:railroad car number  0
+11,1,11,40,4001,BV:railroad car number 11
+12,1,2,41,381,BV:shipment number 41
